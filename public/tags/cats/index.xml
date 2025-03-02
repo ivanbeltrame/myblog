@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cats on My Blog</title>
-    <link>http://localhost:1313/tags/cats/</link>
+    <link>https://blog.ivanbeltrame.com/tags/cats/</link>
     <description>Recent content in Cats on My Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Ivan Beltrame</copyright>
     <lastBuildDate>Sun, 02 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/cats/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.ivanbeltrame.com/tags/cats/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test!!</title>
-      <link>http://localhost:1313/posts/prova/</link>
+      <link>https://blog.ivanbeltrame.com/posts/prova/</link>
       <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/prova/</guid>
-      <description>&lt;h1 id=&#34;this-is-a-test&#34;&gt;This is a test!!&lt;/h1&gt;&#xA;&lt;h2 id=&#34;hi&#34;&gt;hi&lt;/h2&gt;&#xA;&lt;p&gt;meow&#xA;&lt;img src=&#34;http://localhost:1313/static/cat-in-hole.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;</description>
+      <guid>https://blog.ivanbeltrame.com/posts/prova/</guid>
+      <description>&lt;h1 id=&#34;this-is-a-test&#34;&gt;This is a test!!&lt;/h1&gt;&#xA;&lt;h2 id=&#34;hi&#34;&gt;hi&lt;/h2&gt;&#xA;&lt;p&gt;meow&#xA;&lt;img src=&#34;https://blog.ivanbeltrame.com/static/cat-in-hole.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
